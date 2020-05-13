@@ -1,6 +1,6 @@
 # deno-examples
 
-Playground and examples for [ry/deno](https://github.com/ry/deno) using [maxmcd/deno-docker](https://github.com/maxmcd/deno-docker)
+Playground and examples for [deno](https://github.com/denoland/deno) using [maxmcd/deno-docker](https://github.com/maxmcd/deno-docker)
 
 ## PR's only
 
